@@ -10,6 +10,10 @@ namespace ShoppingCart_ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hey");
+            Console.ReadKey();
         }
+
+        
     }
 }
